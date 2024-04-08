@@ -1,7 +1,7 @@
 ###                                                                                                               Hi👋,i'm Ashok kumar Dhinda
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
   <!--
-                                                                                                             <h3>  I am Full-Stack Web Developer <h3/>
+                                                                                                             < I am Full-Stack Web Developer 
 **ashokdhinda/ashokdhinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
