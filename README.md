@@ -42,6 +42,10 @@
 - 🖥  Linkedin: <a href="https://www.linkedin.com/in/ashok-kumar-dhinda-9892b028a/" target="_blank">Link</a>
 - ⚡ Fun fact: Not funny      
 
-            
-  (https://github.com/Rati3010)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mratikanta1997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mohantratikanta//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/RatikantaMohanta)  
+  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='git-hub' height='40'>](https://github.com/ashokdhinda)
+  [<img src='https://www.svgrepo.com/show/306328/leetcode.svg' alt='dev' height='40'>](https://leetcode.com/u/T1yVjCkrBE/)
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>] 
+  (https://www.instagram.com/odiaboys_bengaluru/?locale=it_IT)
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/ashokkudhinda143)  
             
