@@ -54,6 +54,8 @@
 <p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashokdhinda&theme=react&line_height=40"/> </p>
 <p align="center">
 
-  ![snake gif](https://github.com/ashokdhinda/ashokdhinda/blob/output/github-contribution-grid-snake.svg)
- 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+ ---
+[![](https://visitcount.itsvg.in/api?id=ashokdhinda&icon=0&color=0)](https://visitcount.itsvg.in)
             
