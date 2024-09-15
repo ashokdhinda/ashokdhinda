@@ -47,6 +47,13 @@
   [<img src='https://www.svgrepo.com/show/306328/leetcode.svg' alt='dev' height='40'>](https://leetcode.com/u/T1yVjCkrBE/)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/odiaboys_bengaluru/?locale=it_IT//)
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/ashokkudhinda143)
+  
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashokdhinda&show_icons=true&count_private=true&theme=react" alt="ashokdhinda" /></p>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashokdhinda&theme=react" alt="ashokdhinda" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashokdhinda&theme=react&line_height=40"/> </p>
+<p align="center">
+
+  ![snake gif](https://github.com/ashokdhinda/ashokdhinda/blob/output/github-contribution-grid-snake.svg)
  
             
