@@ -38,7 +38,7 @@
 - 🌱 I’m currently learning Node ,React
 - 👯 I’m looking to collaborate on React Project 
 - 📫 How to reach me: ashokkumardhind6373@gmail.com
-- 👀 Portfolio: <a href="" target="_blank">Link</a>
+- 👀 Portfolio: <a href="https://ashokdhinda.netlify.app/" target="_blank">Link</a>
 - 🖥  Linkedin: <a href="https://www.linkedin.com/in/ashok-kumar-dhinda-9892b028a/" target="_blank">Link</a>
 - ⚡ Fun fact: Not funny      
 
